@@ -5,7 +5,7 @@ Ever browsed a link on your mobile thinking "I should get back to this on my des
 
 ## How it works ?
 
-1. Install Chrome extension
+1. Install Chrome extension: https://chrome.google.com/webstore/detail/send-to-desktop/deoeiegldekdpmppelalmdjehoijgmlp
 2. Bookmark a URL from your mobile into the `Send to Desktop Bookmarks` folder
 3. A new tab will automatically open on your desktop as soon as your bookmarks are synced
 
