@@ -1,0 +1,10 @@
+{
+  "description": {
+    "message": "Links auf dem Desktop öffnen, die zuvor auf Ihrem Handy gespeichert wurden",
+    "description": "Extension description"
+  },
+  "folderName": {
+    "message": "Send-to-Desktop lesezeichen",
+    "description": "Name of the folder where bookmarks are stored"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "description": {
+    "message": "Open links on desktop previously saved on your mobile",
+    "description": "Extension description"
+  },
+  "folderName": {
+    "message": "Send-to-Desktop bookmarks",
+    "description": "Name of the folder where bookmarks are stored"
+  }
+}

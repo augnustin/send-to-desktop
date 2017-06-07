@@ -1,0 +1,10 @@
+{
+  "description": {
+    "message": "Abré URL en el escritorio previamente guardados en su móvil",
+    "description": "Extension description"
+  },
+  "folderName": {
+    "message": "Send-to-Desktop favoritos",
+    "description": "Name of the folder where bookmarks are stored"
+  }
+}

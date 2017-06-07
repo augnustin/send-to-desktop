@@ -1,0 +1,10 @@
+{
+  "description": {
+    "message": "Ouvre des liens préalablement enregistrés sur mobile sur votre ordinateur",
+    "description": "Extension description"
+  },
+  "folderName": {
+    "message": "Send-to-Desktop favoris",
+    "description": "Name of the folder where bookmarks are stored"
+  }
+}
